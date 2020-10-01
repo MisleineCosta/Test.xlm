@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<?xml-stylesheet type= 'text/css' href='style.css'?>
+<document>    
+    <!-- To start a server: python3 -m http.server 808--> 
+    <!-- To install yarn in the workspace/Test.xml $ = yarn-->    
+    <!-- To stop the python server press Ctrl+C and Commenting out shortcut: Ctrl+/-->  
+    <module lecture = "12132343">Interactive Web Application&#33;</module>
+    <module lecture = "12132343"><![CDATA[Interactive Web Application!]]></module>
+    <module>
+        <ca>1</ca>
+        <title>My first App</title>
+
+    </module>
+
+</document>
